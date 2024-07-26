@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.124bccb2.css",
-    "main.js": "/static/js/main.9589ea2c.js",
+    "main.css": "/static/css/main.4309fd9a.css",
+    "main.js": "/static/js/main.9d7b7c23.js",
     "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -11,6 +11,9 @@
     "static/media/boxicons.ttf": "/static/media/boxicons.db9ddb1898dbd76badca.ttf",
     "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
     "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/r2.jpg": "/static/media/r2.d4e46e4a5b37830c6740.jpg",
+    "static/media/r5.jpg": "/static/media/r5.7038e09bcdb951f03c80.jpg",
+    "static/media/r6.jpg": "/static/media/r6.099b507ff3204dc716dc.jpg",
     "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
     "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
     "static/media/r7.jpg": "/static/media/r7.09cd396a027b2a468f5b.jpg",
@@ -20,13 +23,10 @@
     "static/media/c2c4.jpg": "/static/media/c2c4.01fef44144be031c4a7e.jpg",
     "static/media/Rectangle 2.png": "/static/media/Rectangle 2.c4b550632881a2191a7e.png",
     "static/media/r8.jpg": "/static/media/r8.2023d2e640173a5def38.jpg",
-    "static/media/r5.jpg": "/static/media/r5.953eb23571069dabea1b.jpg",
     "static/media/c2c1.jpg": "/static/media/c2c1.237b0f63e6780c6be576.jpg",
     "static/media/Rectangle 5.png": "/static/media/Rectangle 5.6cde725571ecae0232a8.png",
     "static/media/Chicken-Shawarma.jpg": "/static/media/Chicken-Shawarma.779d66196c35dec7a478.jpg",
-    "static/media/r2.jpg": "/static/media/r2.0860472a1297cc292713.jpg",
     "static/media/Rectangle 4.png": "/static/media/Rectangle 4.018787868a7c95a8c654.png",
-    "static/media/r6.jpg": "/static/media/r6.5e9349b4a00c21093108.jpg",
     "static/media/Frame10.png": "/static/media/Frame10.c4642e4d70b4c46a840e.png",
     "static/media/pizza.jpeg": "/static/media/pizza.1ceb395ed9ecb0140908.jpeg",
     "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
@@ -63,11 +63,11 @@
     "static/media/nonVeg.svg": "/static/media/nonVeg.c1c2a4c56783d018a17613b5ecf83a56.svg",
     "static/media/success.svg": "/static/media/success.dcd0689d06e4a5aff6cf73a55e0620f3.svg",
     "static/media/Icon.svg": "/static/media/Icon.c2d102de3707389114f54aacedb9a8b9.svg",
-    "main.124bccb2.css.map": "/static/css/main.124bccb2.css.map",
-    "main.9589ea2c.js.map": "/static/js/main.9589ea2c.js.map"
+    "main.4309fd9a.css.map": "/static/css/main.4309fd9a.css.map",
+    "main.9d7b7c23.js.map": "/static/js/main.9d7b7c23.js.map"
   },
   "entrypoints": [
-    "static/css/main.124bccb2.css",
-    "static/js/main.9589ea2c.js"
+    "static/css/main.4309fd9a.css",
+    "static/js/main.9d7b7c23.js"
   ]
 }
