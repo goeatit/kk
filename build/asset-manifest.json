@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.4309fd9a.css",
-    "main.js": "/static/js/main.87748a8f.js",
+    "main.css": "/static/css/main.b9dafa1f.css",
+    "main.js": "/static/js/main.c992ae0d.js",
     "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -62,12 +62,10 @@
     "static/media/VEG.svg": "/static/media/VEG.ea794aca5f2e2117435234b32d40c3b1.svg",
     "static/media/nonVeg.svg": "/static/media/nonVeg.c1c2a4c56783d018a17613b5ecf83a56.svg",
     "static/media/success.svg": "/static/media/success.dcd0689d06e4a5aff6cf73a55e0620f3.svg",
-    "static/media/Icon.svg": "/static/media/Icon.c2d102de3707389114f54aacedb9a8b9.svg",
-    "main.4309fd9a.css.map": "/static/css/main.4309fd9a.css.map",
-    "main.87748a8f.js.map": "/static/js/main.87748a8f.js.map"
+    "static/media/Icon.svg": "/static/media/Icon.c2d102de3707389114f54aacedb9a8b9.svg"
   },
   "entrypoints": [
-    "static/css/main.4309fd9a.css",
-    "static/js/main.87748a8f.js"
+    "static/css/main.b9dafa1f.css",
+    "static/js/main.c992ae0d.js"
   ]
 }
