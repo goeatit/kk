@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.4cc0e633.css",
-    "main.js": "/static/js/main.67e1c7a5.js",
+    "main.css": "/static/css/main.e7413482.css",
+    "main.js": "/static/js/main.7519cc82.js",
     "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
-    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
     "static/media/pizza2.png": "/static/media/pizza2.5a6186432bef50b61a07.png",
     "static/media/restaurantpage.png": "/static/media/restaurantpage.c474a258f174a50dbd2e.png",
     "static/media/boxicons.woff": "/static/media/boxicons.d12afc36557395143e4b.woff",
     "static/media/boxicons.ttf": "/static/media/boxicons.db9ddb1898dbd76badca.ttf",
-    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
-    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.0ff70dcbf135d859ebf3.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.93f719f4d62bfa3e748c.woff2",
     "static/media/r2.jpg": "/static/media/r2.d4e46e4a5b37830c6740.jpg",
     "static/media/r5.jpg": "/static/media/r5.7038e09bcdb951f03c80.jpg",
     "static/media/r6.jpg": "/static/media/r6.099b507ff3204dc716dc.jpg",
-    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.bb8d5a145e22822103fb.woff2",
     "static/media/boxicons.woff2": "/static/media/boxicons.df635aaf04cd75132f62.woff2",
     "static/media/r7.jpg": "/static/media/r7.09cd396a027b2a468f5b.jpg",
     "static/media/c2c3.jpg": "/static/media/c2c3.65ff2349918b79971158.jpg",
@@ -29,7 +29,7 @@
     "static/media/Rectangle 4.png": "/static/media/Rectangle 4.018787868a7c95a8c654.png",
     "static/media/Frame10.png": "/static/media/Frame10.c4642e4d70b4c46a840e.png",
     "static/media/pizza.jpeg": "/static/media/pizza.1ceb395ed9ecb0140908.jpeg",
-    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.17a6e1aebccdbaa39e78.ttf",
     "static/media/Rectangle 3.png": "/static/media/Rectangle 3.3c0d435c4a90877221c4.png",
     "static/media/c2c6.jpg": "/static/media/c2c6.8dcc93b39404a501e601.jpg",
     "static/media/r4.jpg": "/static/media/r4.a6c21c346698c45f03c2.jpg",
@@ -41,10 +41,13 @@
     "static/media/c2c5.jpg": "/static/media/c2c5.090f834c39c542da8439.jpg",
     "static/media/c2c7.jpg": "/static/media/c2c7.1f7fe998d46ae5449bee.jpg",
     "static/media/varaint2.png": "/static/media/varaint2.408c4cf7185bad8787d7.png",
-    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.bc3722686635b5f86132.woff2",
     "static/media/variant3.png": "/static/media/variant3.4347f2c40cadb4df7de5.png",
-    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
-    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.0f6cb412603527bda691.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "static/media/logo.svg": "/static/media/logo.189f3546db7bc62734e66d4f3d330012.svg",
     "static/media/profile.svg": "/static/media/profile.c0316f2dea376c4e9701e0b589f138fa.svg",
     "static/media/person4.svg": "/static/media/person4.1f40ddbe343dcf50eff5f26101da77b1.svg",
@@ -65,7 +68,7 @@
     "static/media/Icon.svg": "/static/media/Icon.c2d102de3707389114f54aacedb9a8b9.svg"
   },
   "entrypoints": [
-    "static/css/main.4cc0e633.css",
-    "static/js/main.67e1c7a5.js"
+    "static/css/main.e7413482.css",
+    "static/js/main.7519cc82.js"
   ]
 }
