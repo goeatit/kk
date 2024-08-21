@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b53770e5.css",
-    "main.js": "/static/js/main.8a61988b.js",
+    "main.css": "/static/css/main.0646b9bf.css",
+    "main.js": "/static/js/main.4c9360bb.js",
     "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -58,16 +58,22 @@
     "static/media/person2.svg": "/static/media/person2.282ffe43532eb3ef39e942f079c750f7.svg",
     "static/media/facebook.svg": "/static/media/facebook.bd4a9e926b2e868696951247177282f6.svg",
     "static/media/order.svg": "/static/media/order.e00d04b7492ffb3d17ddc62bb70befe1.svg",
+    "static/media/name.svg": "/static/media/name.6d1954b62cdfe28b32fa463e72e826c7.svg",
     "static/media/person1.svg": "/static/media/person1.6ad96c5f7abd33bec8654b3c66dcca8f.svg",
+    "static/media/gender.svg": "/static/media/gender.4b1c87040938b22582390c9380ec409f.svg",
+    "static/media/calender.svg": "/static/media/calender.ac6a09f8dd9f6df0bc0c4234af55d307.svg",
+    "static/media/mail.svg": "/static/media/mail.1fcdfbdfad9c61e6bfc048f741a8a575.svg",
     "index.html": "/index.html",
     "static/media/download.svg": "/static/media/download.834ba9c3c3f5ae1b044c9ae21463154e.svg",
     "static/media/logout.svg": "/static/media/logout.24bb14d1838f919d0c78707d2e9b29fc.svg",
     "static/media/VEG.svg": "/static/media/VEG.ea794aca5f2e2117435234b32d40c3b1.svg",
     "static/media/nonVeg.svg": "/static/media/nonVeg.c1c2a4c56783d018a17613b5ecf83a56.svg",
-    "static/media/Icon.svg": "/static/media/Icon.c2d102de3707389114f54aacedb9a8b9.svg"
+    "static/media/Icon.svg": "/static/media/Icon.c2d102de3707389114f54aacedb9a8b9.svg",
+    "static/media/upArrow.svg": "/static/media/upArrow.7578f233ce113625e95e0f71055a141f.svg",
+    "static/media/DownArrow.svg": "/static/media/DownArrow.3673f1cfcf098ea3ed186e32b17c20e9.svg"
   },
   "entrypoints": [
-    "static/css/main.b53770e5.css",
-    "static/js/main.8a61988b.js"
+    "static/css/main.0646b9bf.css",
+    "static/js/main.4c9360bb.js"
   ]
 }
