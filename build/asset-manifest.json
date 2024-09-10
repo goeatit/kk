@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.cd2a590f.css",
-    "main.js": "/static/js/main.3f225792.js",
+    "main.css": "/static/css/main.925db2d0.css",
+    "main.js": "/static/js/main.9220af92.js",
     "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
     "static/media/boxicons.eot": "/static/media/boxicons.65a8ce52fc5427e8f94d.eot",
@@ -57,6 +57,7 @@
     "static/media/google.svg": "/static/media/google.36943e60305ffd5a19f620a36a59df8b.svg",
     "static/media/person2.svg": "/static/media/person2.282ffe43532eb3ef39e942f079c750f7.svg",
     "static/media/facebook.svg": "/static/media/facebook.bd4a9e926b2e868696951247177282f6.svg",
+    "static/media/Pen 2.svg": "/static/media/Pen 2.44d85bada7f4d98b36705795429935ce.svg",
     "static/media/order.svg": "/static/media/order.e00d04b7492ffb3d17ddc62bb70befe1.svg",
     "static/media/name.svg": "/static/media/name.6d1954b62cdfe28b32fa463e72e826c7.svg",
     "static/media/person1.svg": "/static/media/person1.6ad96c5f7abd33bec8654b3c66dcca8f.svg",
@@ -73,7 +74,7 @@
     "static/media/DownArrow.svg": "/static/media/DownArrow.3673f1cfcf098ea3ed186e32b17c20e9.svg"
   },
   "entrypoints": [
-    "static/css/main.cd2a590f.css",
-    "static/js/main.3f225792.js"
+    "static/css/main.925db2d0.css",
+    "static/js/main.9220af92.js"
   ]
 }
