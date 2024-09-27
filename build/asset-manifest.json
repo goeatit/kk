@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c5ec8bf.css",
-    "main.js": "/static/js/main.42c3e71a.js",
+    "main.css": "/static/css/main.74164df9.css",
+    "main.js": "/static/js/main.b228fe5c.js",
     "static/media/support.png": "/static/media/support.ccd77ba2b238773346f0.png",
     "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
     "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.07ed6d5fa32c1d54af0f.ttf",
@@ -63,6 +63,7 @@
     "static/media/starRatting.svg": "/static/media/starRatting.70de123b6458bc03ae68d9e72ec710af.svg",
     "static/media/Pen 2.svg": "/static/media/Pen 2.44d85bada7f4d98b36705795429935ce.svg",
     "static/media/order.svg": "/static/media/order.e00d04b7492ffb3d17ddc62bb70befe1.svg",
+    "static/media/filter.svg": "/static/media/filter.c52c3233fcfc9c20ede79ee7d708c5bf.svg",
     "static/media/Star.svg": "/static/media/Star.7cd47a7d1091503e1fc5a7f6f8719a30.svg",
     "static/media/name.svg": "/static/media/name.6d1954b62cdfe28b32fa463e72e826c7.svg",
     "static/media/person1.svg": "/static/media/person1.6ad96c5f7abd33bec8654b3c66dcca8f.svg",
@@ -80,7 +81,7 @@
     "static/media/DownArrow.svg": "/static/media/DownArrow.3673f1cfcf098ea3ed186e32b17c20e9.svg"
   },
   "entrypoints": [
-    "static/css/main.8c5ec8bf.css",
-    "static/js/main.42c3e71a.js"
+    "static/css/main.74164df9.css",
+    "static/js/main.b228fe5c.js"
   ]
 }
