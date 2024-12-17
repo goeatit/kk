@@ -100,6 +100,8 @@
 
 //! github.com/moment/moment-timezone
 
+//! goToAndStop must be relative to the start of the current segment
+
 //! license : MIT
 
 //! moment-timezone.js
