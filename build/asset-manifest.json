@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.23a68ae6.css",
-    "main.js": "/static/js/main.f50806ba.js",
+    "main.css": "/static/css/main.066fa319.css",
+    "main.js": "/static/js/main.5ed76dfa.js",
     "static/css/363.fca428f7.chunk.css": "/static/css/363.fca428f7.chunk.css",
     "static/js/363.d94a02d6.chunk.js": "/static/js/363.d94a02d6.chunk.js",
     "static/css/938.884f76e1.chunk.css": "/static/css/938.884f76e1.chunk.css",
@@ -13,7 +13,7 @@
     "static/css/626.7efb67dd.chunk.css": "/static/css/626.7efb67dd.chunk.css",
     "static/js/626.58a6c791.chunk.js": "/static/js/626.58a6c791.chunk.js",
     "static/css/456.608d3b09.chunk.css": "/static/css/456.608d3b09.chunk.css",
-    "static/js/456.8817dd2c.chunk.js": "/static/js/456.8817dd2c.chunk.js",
+    "static/js/456.e1d8d299.chunk.js": "/static/js/456.e1d8d299.chunk.js",
     "static/media/support-background-mb.svg": "/static/media/support-background-mb.449a9f7ec616203b2c2e.svg",
     "static/media/support-background.svg": "/static/media/support-background.33c03949666fff52377a.svg",
     "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
@@ -65,6 +65,7 @@
     "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
     "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.6cfec8414be20e2c3426.woff2",
     "static/media/logo.svg": "/static/media/logo.189f3546db7bc62734e66d4f3d330012.svg",
+    "static/media/oder-issue.svg": "/static/media/oder-issue.f0048d8336cbfe4f05a34f837267f39e.svg",
     "static/media/delete-button.svg": "/static/media/delete-button.18dde7ec273096cad311eb3149a91ce5.svg",
     "static/media/profile.svg": "/static/media/profile.c0316f2dea376c4e9701e0b589f138fa.svg",
     "static/media/person4.svg": "/static/media/person4.1f40ddbe343dcf50eff5f26101da77b1.svg",
@@ -104,7 +105,7 @@
     "static/media/right-arrow.svg": "/static/media/right-arrow.f2fe31efd76052fc1124d2467450158c.svg"
   },
   "entrypoints": [
-    "static/css/main.23a68ae6.css",
-    "static/js/main.f50806ba.js"
+    "static/css/main.066fa319.css",
+    "static/js/main.5ed76dfa.js"
   ]
 }
