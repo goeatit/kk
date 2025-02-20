@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.b74b3d38.css",
-    "main.js": "/static/js/main.4cf9ca55.js",
+    "main.css": "/static/css/main.e90946bc.css",
+    "main.js": "/static/js/main.4df1c67c.js",
     "static/css/363.fca428f7.chunk.css": "/static/css/363.fca428f7.chunk.css",
     "static/js/363.d94a02d6.chunk.js": "/static/js/363.d94a02d6.chunk.js",
     "static/css/938.a8378469.chunk.css": "/static/css/938.a8378469.chunk.css",
     "static/js/938.aaae7b2c.chunk.js": "/static/js/938.aaae7b2c.chunk.js",
     "static/css/878.56d99ea9.chunk.css": "/static/css/878.56d99ea9.chunk.css",
-    "static/js/878.c3fcbdbf.chunk.js": "/static/js/878.c3fcbdbf.chunk.js",
+    "static/js/878.1ed68aaa.chunk.js": "/static/js/878.1ed68aaa.chunk.js",
     "static/css/170.e6367407.chunk.css": "/static/css/170.e6367407.chunk.css",
     "static/js/170.cf3537c3.chunk.js": "/static/js/170.cf3537c3.chunk.js",
     "static/css/626.c782524f.chunk.css": "/static/css/626.c782524f.chunk.css",
@@ -80,6 +80,7 @@
     "static/media/facebook.svg": "/static/media/facebook.bd4a9e926b2e868696951247177282f6.svg",
     "static/media/starRatting.svg": "/static/media/starRatting.70de123b6458bc03ae68d9e72ec710af.svg",
     "static/media/Pen 2.svg": "/static/media/Pen 2.44d85bada7f4d98b36705795429935ce.svg",
+    "static/media/refung-img.svg": "/static/media/refung-img.30a85e2ca9799a65da0bcfe6adc0a720.svg",
     "static/media/order.svg": "/static/media/order.e00d04b7492ffb3d17ddc62bb70befe1.svg",
     "static/media/mobile-filter.svg": "/static/media/mobile-filter.35e8a1ad16a26f2f0744ef86f60aa07c.svg",
     "static/media/GPS.svg": "/static/media/GPS.1ad08ddc5e4031b47e3f6b64c42aa513.svg",
@@ -105,7 +106,7 @@
     "static/media/right-arrow.svg": "/static/media/right-arrow.f2fe31efd76052fc1124d2467450158c.svg"
   },
   "entrypoints": [
-    "static/css/main.b74b3d38.css",
-    "static/js/main.4cf9ca55.js"
+    "static/css/main.e90946bc.css",
+    "static/js/main.4df1c67c.js"
   ]
 }
