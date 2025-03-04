@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e90946bc.css",
-    "main.js": "/static/js/main.c98e978e.js",
-    "static/css/363.fca428f7.chunk.css": "/static/css/363.fca428f7.chunk.css",
-    "static/js/363.d94a02d6.chunk.js": "/static/js/363.d94a02d6.chunk.js",
+    "main.css": "/static/css/main.b8b80443.css",
+    "main.js": "/static/js/main.d97c9779.js",
+    "static/css/363.2beae654.chunk.css": "/static/css/363.2beae654.chunk.css",
+    "static/js/363.21c4d023.chunk.js": "/static/js/363.21c4d023.chunk.js",
     "static/css/938.a8378469.chunk.css": "/static/css/938.a8378469.chunk.css",
     "static/js/938.aaae7b2c.chunk.js": "/static/js/938.aaae7b2c.chunk.js",
     "static/css/878.56d99ea9.chunk.css": "/static/css/878.56d99ea9.chunk.css",
-    "static/js/878.1ed68aaa.chunk.js": "/static/js/878.1ed68aaa.chunk.js",
+    "static/js/878.d7da08cc.chunk.js": "/static/js/878.d7da08cc.chunk.js",
     "static/css/170.e6367407.chunk.css": "/static/css/170.e6367407.chunk.css",
     "static/js/170.cf3537c3.chunk.js": "/static/js/170.cf3537c3.chunk.js",
-    "static/css/626.c782524f.chunk.css": "/static/css/626.c782524f.chunk.css",
-    "static/js/626.e3792fb6.chunk.js": "/static/js/626.e3792fb6.chunk.js",
+    "static/css/626.dfaa0a36.chunk.css": "/static/css/626.dfaa0a36.chunk.css",
+    "static/js/626.294bdd4e.chunk.js": "/static/js/626.294bdd4e.chunk.js",
     "static/css/456.88205082.chunk.css": "/static/css/456.88205082.chunk.css",
-    "static/js/456.4da83901.chunk.js": "/static/js/456.4da83901.chunk.js",
+    "static/js/456.5b8c562c.chunk.js": "/static/js/456.5b8c562c.chunk.js",
     "static/media/support-background-mb.svg": "/static/media/support-background-mb.449a9f7ec616203b2c2e.svg",
     "static/media/support-background.svg": "/static/media/support-background.33c03949666fff52377a.svg",
     "static/media/boxicons.svg": "/static/media/boxicons.9e2b21b135bc7d4c803f.svg",
@@ -106,7 +106,7 @@
     "static/media/right-arrow.svg": "/static/media/right-arrow.f2fe31efd76052fc1124d2467450158c.svg"
   },
   "entrypoints": [
-    "static/css/main.e90946bc.css",
-    "static/js/main.c98e978e.js"
+    "static/css/main.b8b80443.css",
+    "static/js/main.d97c9779.js"
   ]
 }
