@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.95298d68.css",
-    "main.js": "/static/js/main.7d92f980.js",
+    "main.css": "/static/css/main.2083d5ff.css",
+    "main.js": "/static/js/main.5a748412.js",
     "static/css/363.2beae654.chunk.css": "/static/css/363.2beae654.chunk.css",
     "static/js/363.36892a95.chunk.js": "/static/js/363.36892a95.chunk.js",
     "static/css/734.a8366cc3.chunk.css": "/static/css/734.a8366cc3.chunk.css",
     "static/js/734.359ad54c.chunk.js": "/static/js/734.359ad54c.chunk.js",
     "static/css/790.6f773a62.chunk.css": "/static/css/790.6f773a62.chunk.css",
-    "static/js/790.57a140ec.chunk.js": "/static/js/790.57a140ec.chunk.js",
+    "static/js/790.bd9ec6d6.chunk.js": "/static/js/790.bd9ec6d6.chunk.js",
     "static/css/170.e6367407.chunk.css": "/static/css/170.e6367407.chunk.css",
     "static/js/170.87a543e7.chunk.js": "/static/js/170.87a543e7.chunk.js",
     "static/css/626.dfaa0a36.chunk.css": "/static/css/626.dfaa0a36.chunk.css",
@@ -109,7 +109,7 @@
     "static/media/right-arrow.svg": "/static/media/right-arrow.f2fe31efd76052fc1124d2467450158c.svg"
   },
   "entrypoints": [
-    "static/css/main.95298d68.css",
-    "static/js/main.7d92f980.js"
+    "static/css/main.2083d5ff.css",
+    "static/js/main.5a748412.js"
   ]
 }
