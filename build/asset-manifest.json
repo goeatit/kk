@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.1e870ddf.css",
-    "main.js": "/static/js/main.3ed4c91e.js",
+    "main.css": "/static/css/main.0f727f61.css",
+    "main.js": "/static/js/main.b7c49bfd.js",
     "static/css/363.2beae654.chunk.css": "/static/css/363.2beae654.chunk.css",
     "static/js/363.3e659f18.chunk.js": "/static/js/363.3e659f18.chunk.js",
     "static/css/734.60588feb.chunk.css": "/static/css/734.60588feb.chunk.css",
@@ -59,6 +59,7 @@
     "static/media/refung-img.svg": "/static/media/refung-img.30a85e2ca9799a65da0bcfe6adc0a720.svg",
     "static/media/order.svg": "/static/media/order.b324d29816328051816071396495475b.svg",
     "static/media/mobile-filter.svg": "/static/media/mobile-filter.35e8a1ad16a26f2f0744ef86f60aa07c.svg",
+    "index.html": "/index.html",
     "static/media/GPS.svg": "/static/media/GPS.1ad08ddc5e4031b47e3f6b64c42aa513.svg",
     "static/media/filter.svg": "/static/media/filter.db5c1fc6bf364d9f9a59eeb8c5d2a83b.svg",
     "static/media/Star.svg": "/static/media/Star.8acb0df0ed75c1c204461b00c14b7e92.svg",
@@ -67,7 +68,6 @@
     "static/media/starSolid.svg": "/static/media/starSolid.2f9a50e2b17ffe728bd0beb267f10be1.svg",
     "static/media/person1.svg": "/static/media/person1.bdef44af96569404d6f875ef374ea683.svg",
     "static/media/gender.svg": "/static/media/gender.d053c8a9577bf1f1770ad2558ea1e02c.svg",
-    "index.html": "/index.html",
     "static/media/arcticons_cred.svg": "/static/media/arcticons_cred.dfd3612edc16b23c5a0cd18c35bd4517.svg",
     "static/media/calender.svg": "/static/media/calender.c86e564ab0a8df56d79726bcc5555da5.svg",
     "static/media/mail.svg": "/static/media/mail.8679e8787489252ae1a13d46d3a54c6b.svg",
@@ -85,7 +85,7 @@
     "static/media/right-arrow.svg": "/static/media/right-arrow.f2fe31efd76052fc1124d2467450158c.svg"
   },
   "entrypoints": [
-    "static/css/main.1e870ddf.css",
-    "static/js/main.3ed4c91e.js"
+    "static/css/main.0f727f61.css",
+    "static/js/main.b7c49bfd.js"
   ]
 }
