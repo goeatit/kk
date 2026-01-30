@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f727f61.css",
-    "main.js": "/static/js/main.b7c49bfd.js",
+    "main.css": "/static/css/main.f1cbf3d1.css",
+    "main.js": "/static/js/main.92d4af01.js",
     "static/css/363.2beae654.chunk.css": "/static/css/363.2beae654.chunk.css",
     "static/js/363.3e659f18.chunk.js": "/static/js/363.3e659f18.chunk.js",
     "static/css/734.60588feb.chunk.css": "/static/css/734.60588feb.chunk.css",
@@ -46,6 +46,7 @@
     "static/media/delete-button.svg": "/static/media/delete-button.18dde7ec273096cad311eb3149a91ce5.svg",
     "static/media/profile.svg": "/static/media/profile.77f2ebedcb403add96141ec887cb8132.svg",
     "static/media/person4.svg": "/static/media/person4.6ac360382e581a9c4abce5c88ca6da08.svg",
+    "index.html": "/index.html",
     "static/media/Egg.svg": "/static/media/Egg.1dac4be3dfb6fb527422a53022495b92.svg",
     "static/media/person3.svg": "/static/media/person3.90702770e08599e4e26847ee41041ff9.svg",
     "static/media/coupon.svg": "/static/media/coupon.a7eb7b4982dbc9188076b8aac3160ee9.svg",
@@ -59,7 +60,6 @@
     "static/media/refung-img.svg": "/static/media/refung-img.30a85e2ca9799a65da0bcfe6adc0a720.svg",
     "static/media/order.svg": "/static/media/order.b324d29816328051816071396495475b.svg",
     "static/media/mobile-filter.svg": "/static/media/mobile-filter.35e8a1ad16a26f2f0744ef86f60aa07c.svg",
-    "index.html": "/index.html",
     "static/media/GPS.svg": "/static/media/GPS.1ad08ddc5e4031b47e3f6b64c42aa513.svg",
     "static/media/filter.svg": "/static/media/filter.db5c1fc6bf364d9f9a59eeb8c5d2a83b.svg",
     "static/media/Star.svg": "/static/media/Star.8acb0df0ed75c1c204461b00c14b7e92.svg",
@@ -85,7 +85,7 @@
     "static/media/right-arrow.svg": "/static/media/right-arrow.f2fe31efd76052fc1124d2467450158c.svg"
   },
   "entrypoints": [
-    "static/css/main.0f727f61.css",
-    "static/js/main.b7c49bfd.js"
+    "static/css/main.f1cbf3d1.css",
+    "static/js/main.92d4af01.js"
   ]
 }

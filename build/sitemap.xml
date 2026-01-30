@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://eatitgo.com/</loc>
+    <lastmod>2026-01-30</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <url>
+    <loc>https://eatitgo.com/about</loc>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://eatitgo.com/help</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://eatitgo.com/faq</loc>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://eatitgo.com/contact-sales</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://eatitgo.com/terms-and-conditions</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://eatitgo.com/privacy-policy</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://eatitgo.com/payment-terms</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://eatitgo.com/contact-us</loc>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://eatitgo.com/cancellation-refund</loc>
+    <priority>0.5</priority>
+  </url>
+
+  <url>
+    <loc>https://eatitgo.com/careers</loc>
+    <priority>0.6</priority>
+  </url>
+
+</urlset>
