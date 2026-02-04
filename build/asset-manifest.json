@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.30ec23ca.css",
-    "main.js": "/static/js/main.264d81da.js",
+    "main.js": "/static/js/main.a8760678.js",
     "static/css/363.2beae654.chunk.css": "/static/css/363.2beae654.chunk.css",
     "static/js/363.3e659f18.chunk.js": "/static/js/363.3e659f18.chunk.js",
     "static/css/734.60588feb.chunk.css": "/static/css/734.60588feb.chunk.css",
@@ -11,7 +11,7 @@
     "static/css/170.e6367407.chunk.css": "/static/css/170.e6367407.chunk.css",
     "static/js/170.87a543e7.chunk.js": "/static/js/170.87a543e7.chunk.js",
     "static/css/626.dfaa0a36.chunk.css": "/static/css/626.dfaa0a36.chunk.css",
-    "static/js/626.4a521946.chunk.js": "/static/js/626.4a521946.chunk.js",
+    "static/js/626.b5daa528.chunk.js": "/static/js/626.b5daa528.chunk.js",
     "static/css/737.88205082.chunk.css": "/static/css/737.88205082.chunk.css",
     "static/js/737.7a05af1d.chunk.js": "/static/js/737.7a05af1d.chunk.js",
     "static/media/support-background-mb.svg": "/static/media/support-background-mb.449a9f7ec616203b2c2e.svg",
@@ -46,8 +46,8 @@
     "static/media/delete-button.svg": "/static/media/delete-button.18dde7ec273096cad311eb3149a91ce5.svg",
     "static/media/profile.svg": "/static/media/profile.77f2ebedcb403add96141ec887cb8132.svg",
     "static/media/person4.svg": "/static/media/person4.6ac360382e581a9c4abce5c88ca6da08.svg",
-    "index.html": "/index.html",
     "static/media/Egg.svg": "/static/media/Egg.1dac4be3dfb6fb527422a53022495b92.svg",
+    "index.html": "/index.html",
     "static/media/person3.svg": "/static/media/person3.90702770e08599e4e26847ee41041ff9.svg",
     "static/media/coupon.svg": "/static/media/coupon.a7eb7b4982dbc9188076b8aac3160ee9.svg",
     "static/media/support.svg": "/static/media/support.b8a33ca97c8f33caa0178b7f151c37d0.svg",
@@ -86,6 +86,6 @@
   },
   "entrypoints": [
     "static/css/main.30ec23ca.css",
-    "static/js/main.264d81da.js"
+    "static/js/main.a8760678.js"
   ]
 }
