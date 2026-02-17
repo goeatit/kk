@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.itatmant.eatit",
+      "sha256_cert_fingerprints": [
+        "36:24:A3:00:CB:E6:B7:05:D8:16:FD:D6:2F:C9:A6:5D:80:98:FF:F6:91:4E:A1:74:86:DD:2A:8D:F0:40:25:BF"
+      ]
+    }
+  }
+]
