@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.13f0639f.css",
-    "main.js": "/static/js/main.957c3371.js",
+    "main.js": "/static/js/main.16d72d50.js",
     "static/css/363.2beae654.chunk.css": "/static/css/363.2beae654.chunk.css",
     "static/js/363.fd328945.chunk.js": "/static/js/363.fd328945.chunk.js",
     "static/css/734.60588feb.chunk.css": "/static/css/734.60588feb.chunk.css",
@@ -60,6 +60,7 @@
     "static/media/refung-img.svg": "/static/media/refung-img.2a82b6c245895f31d2a0c05b94206701.svg",
     "static/media/order.svg": "/static/media/order.e00d04b7492ffb3d17ddc62bb70befe1.svg",
     "static/media/mobile-filter.svg": "/static/media/mobile-filter.692e723019eef9be1408786de760f30d.svg",
+    "static/media/unavailableDishimage.svg": "/static/media/unavailableDishimage.a7ea4cdab3e5942f4fbf158466657b4b.svg",
     "static/media/GPS.svg": "/static/media/GPS.303b316e6f75610b02c3dd8fcd169916.svg",
     "static/media/filter.svg": "/static/media/filter.c52c3233fcfc9c20ede79ee7d708c5bf.svg",
     "static/media/Star.svg": "/static/media/Star.7cd47a7d1091503e1fc5a7f6f8719a30.svg",
@@ -86,6 +87,6 @@
   },
   "entrypoints": [
     "static/css/main.13f0639f.css",
-    "static/js/main.957c3371.js"
+    "static/js/main.16d72d50.js"
   ]
 }
